@@ -1,0 +1,70 @@
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\AvnonPhoneBookPresentation.dll.config
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\AvnonPhoneBookPresentation.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\AvnonPhoneBookPresentation.pdb
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.AspNet.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.Core.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OAuth.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OpenId.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\EntityFramework.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\EntityFramework.SqlServer.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\Microsoft.Web.Infrastructure.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Net.Http.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Net.Http.WebRequest.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Web.Providers.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Net.Http.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Net.Http.WebRequest.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\EntityFramework.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\EntityFramework.SqlServer.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Web.Providers.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.Core.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OAuth.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OpenId.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.AspNet.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\obj\Debug\AvnonPhoneBookPresentation.csprojResolveAssemblyReference.cache
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\obj\Debug\AvnonPhoneBookPresentation.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\obj\Debug\AvnonPhoneBookPresentation.pdb
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\AvnonPhoneBookPresentation.dll.config
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\AvnonPhoneBookPresentation.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\AvnonPhoneBookPresentation.pdb
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.Core.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\EntityFramework.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Net.Http.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Net.Http.WebRequest.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Web.Providers.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Net.Http.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Net.Http.WebRequest.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\EntityFramework.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\System.Web.Providers.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.Core.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\obj\Debug\AvnonPhoneBookPresentation.csprojResolveAssemblyReference.cache
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\obj\Debug\AvnonPhoneBookPresentation.dll
+C:\Users\judeb\Documents\BIN\1LatestApplication\Avnon_Consulting\PhoneBookAssessment\AvnonPhoneBookPresentation\AvnonPhoneBookPresentation\obj\Debug\AvnonPhoneBookPresentation.pdb

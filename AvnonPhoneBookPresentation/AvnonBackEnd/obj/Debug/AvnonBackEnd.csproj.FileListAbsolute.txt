@@ -1,0 +1,5 @@
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonBackEnd\bin\Debug\AvnonBackEnd.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonBackEnd\bin\Debug\AvnonBackEnd.pdb
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonBackEnd\obj\Debug\AvnonBackEnd.csprojResolveAssemblyReference.cache
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonBackEnd\obj\Debug\AvnonBackEnd.dll
+c:\users\judeb\documents\visual studio 2013\Projects\AvnonPhoneBookPresentation\AvnonBackEnd\obj\Debug\AvnonBackEnd.pdb
