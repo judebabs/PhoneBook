@@ -50,19 +50,21 @@ namespace AvnonPhoneBookPresentation
 
         [WebMethod]
         [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
-        public string GetAllContactsByLocation(string location)
+        public string GetAllContactsByLocation(string searchquery)
         {
 
             var context = new CsContact.CsContact();
-            _contacts = context.GetAllContactByLocation(location);
+            _contacts = context.GetAllContactByLocation(searchquery);
 
             return new JavaScriptSerializer().Serialize(_contacts);
         }
 
         [WebMethod]
         [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
-        public string GetAllContactsByDepartment(string department)
+        public string GetAllContactsByDepartment(string searchquery)
         {
+            var context = new CsContact.CsContact();
+            _contacts = context.GetAllContactsByDepartements(searchquery);
 
             return new JavaScriptSerializer().Serialize(_contacts);
         }
