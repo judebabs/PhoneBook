@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Runtime.InteropServices.ComTypes;
 using System.Threading;
 using AvnonPhoneBookPresentation.DAL;
 
@@ -168,7 +169,7 @@ namespace AvnonPhoneBookPresentation.BLogic
             _contacts = new List<DAL.Contact>();
             //string query = "SELECT * FROM tb_CONTACT";
             //Retrieving data using stored procedure that we created in the DB
-            string query = "SP_GET_CONTACTS_BY_DEPT ";
+            string query = "SP_GET_CONTACTS_BY_DEPT";
 
             try
             {
@@ -179,9 +180,9 @@ namespace AvnonPhoneBookPresentation.BLogic
                 readcommand.CommandType = CommandType.StoredProcedure;
                 readcommand.Parameters.AddWithValue("@department", departementhquery);
                 MyConnection.Open();
-                SqlDataReader reader = null;
+                
 
-                reader = readcommand.ExecuteReader();
+                SqlDataReader reader = readcommand.ExecuteReader();
                 while (reader.Read())
                 {
                     var aContact = new DAL.Contact
@@ -247,6 +248,39 @@ namespace AvnonPhoneBookPresentation.BLogic
 
             //return _contacts;
         }
+
+        //by department name
+        public List<DAL.Contact> GetAllContactByDepartmentName(string departementhquery)
+        {
+            departementhquery = departementhquery.ToLower();
+            _contacts = GetAllContacts();
+
+            var _contactsByDept =new List<Contact>();
+            var departmentObject = new CsDepartment();
+
+            foreach (var aDepartment in departmentObject.GetAllDepartments())
+            {
+                if (aDepartment.DepartmentName.ToLower().Contains(departementhquery.ToLower()))
+                {
+                    var searchedContacts =
+                        _contacts.Where(y => y.ContactDeptId.Equals(aDepartment.DepartmentId)).ToList();
+                        //_contacts.SingleOrDefault(y => y.ContactDeptId.Equals(aDepartment.DepartmentId));
+
+                    if (searchedContacts != null)
+                    {
+                        foreach (var acontactFound  in searchedContacts)
+                        {
+                            _contactsByDept.Add(acontactFound);
+                        }
+                        
+                    }
+                }
+                
+            }
+
+            return _contactsByDept;
+        }
+
 
         //by Location
         public List<DAL.Contact> GetAllContactByLocation(string locationquery)
@@ -329,6 +363,9 @@ namespace AvnonPhoneBookPresentation.BLogic
             return _resultMessage;
 
         }
+
+
+         
 
       
     }

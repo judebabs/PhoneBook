@@ -64,7 +64,7 @@ namespace AvnonPhoneBookPresentation
         public string GetAllContactsByDepartment(string searchquery)
         {
             var context = new CsContact.CsContact();
-            _contacts = context.GetAllContactsByDepartements(searchquery);
+            _contacts = context.GetAllContactByDepartmentName(searchquery);
 
             return new JavaScriptSerializer().Serialize(_contacts);
         }
@@ -86,6 +86,16 @@ namespace AvnonPhoneBookPresentation
             string _message = "Failed";
 
             return _message;
+        }
+
+        //Overloaded method of get all contacts but accept a parameter
+        [WebMethod]
+        [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+        public string GetAllContactsGlobal(string searchquery)
+        {
+            var context = new CsContact.CsContact();
+            _contacts = context.GetAllContacts();
+            return new JavaScriptSerializer().Serialize(_contacts);
         }
     }
 }
